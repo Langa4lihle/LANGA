@@ -1,3 +1,6 @@
+#This program will automatically convert the values in Exel to the correct prices and represent
+#them in a bar chart in under a second.Showcasing how you can use python code for automation to
+#save time and energy
 import openpyxl as xl
 from openpyxl.chart import BarChart,Reference
 
